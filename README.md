@@ -1,5 +1,5 @@
 # Bike Sales Data Analysis – Exploratory Data Analysis (EDA) with Pandas
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yusufKh7-ctrl/Bike-Sales/blob/main/Bike_sales.ipynb)
 A comprehensive **Exploratory Data Analysis (EDA)** project on bike sales data (113,036 records) using Python and Pandas. The dataset contains detailed sales transactions including customer demographics, product information, order quantities, costs, profits, and revenue across multiple years and countries.
 
 ## Project Overview
